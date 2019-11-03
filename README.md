@@ -8,8 +8,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 Some more guidelines:
 
-* Your Pull Request must be rebased on the latest master.
-* Your Pull Request must have only one commit (If there are multiple commits, you should squash them).
+* Your Pull Request must have only one commit.
 * This commit must have a message that resembles: `Add name to README (Name here)` (Use only first name in case the commit message goes over 50 characters).
 * Name of the PR must be informative: `Add my name to the README (Name here)`.
 * Only one line should be there in the diff of your Pull Request.
